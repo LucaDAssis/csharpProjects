@@ -1,0 +1,14 @@
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\bin\Debug\net8.0\CourseNelio.exe
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\bin\Debug\net8.0\CourseNelio.deps.json
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\bin\Debug\net8.0\CourseNelio.runtimeconfig.json
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\bin\Debug\net8.0\CourseNelio.dll
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\bin\Debug\net8.0\CourseNelio.pdb
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.AssemblyInfoInputs.cache
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.AssemblyInfo.cs
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.dll
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\refint\CourseNelio.dll
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.pdb
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\CourseNelio.genruntimeconfig.cache
+C:\Users\MASTER\Desktop\ProjetosCsharp\CourseNelio\obj\Debug\net8.0\ref\CourseNelio.dll
